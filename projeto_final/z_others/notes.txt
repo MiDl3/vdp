@@ -1,0 +1,31 @@
+sistema:
+venda de passagem de onibus
+usuario do sistema é uma pessoa comum
+
+coisas a adicionar no sistema:
+lista de destinos
+compra de passagem
+	nome
+	cpf
+	valor unitario
+	qnt
+	lugar no onibus 
+		mapa de lugares
+
+obs
+sistema nao pode deixar a ocupacao ser preenchida ao mesmo tempo por mais de um passageiro
+add formas de pagamento ex: 
+boleto
+pix
+credito
+   parcelas e seus juros
+ser responsivo para varios aparelhos e tamanhos de telas
+
+adds [?]
+sobre nos
+footer
+menu hamburger?
+abusar do bootstrap
+
+ex
+veppo

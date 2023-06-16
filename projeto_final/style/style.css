@@ -1,0 +1,25 @@
+body {
+    overflow-x: hidden;
+    background-color: #F5F5F5;
+    color: black;
+}
+.acessibility {
+    margin-left: 20%;
+    padding: 1px 0px;
+}
+.acessibility:hover {
+    color: #2F3A70;
+}
+.header {
+    background-color: #c20000 !important;
+    padding: 0 !important;
+  
+}
+.color {
+    font-size: 120%;
+    font-weight: 500;
+    color: #2F3A70;
+}
+.color:hover {
+    color: #292929;
+}
